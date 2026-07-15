@@ -4,7 +4,7 @@ A small, self-contained web tool for validating the Course Rating and Slope
 Rating of a custom or combination golf tee, using the official USGA/WHS
 procedure for unrated tees.
 
-**Live site:** _(added after the first GitHub Pages deploy)_
+**Live site:** https://johnnyinv.github.io/course-rating-validator/
 
 ## What it does
 
